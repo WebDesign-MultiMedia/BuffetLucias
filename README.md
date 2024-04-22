@@ -1,2 +1,5 @@
-# Buffet-Lucias_Links-Tree
-Business to there social media links / contact
+Website for small business.
+Has Social Medias and Menu.
+
+you can checkout my website at
+www.buffetluciasfiestamexicana.com
